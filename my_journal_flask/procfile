@@ -1,0 +1,1 @@
+web: gunicorn "my_journal_flask:create_app()"
